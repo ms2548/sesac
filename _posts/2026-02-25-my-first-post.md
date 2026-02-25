@@ -1,5 +1,4 @@
 2026-02-25-my-first-post.md
-
 ---
 layout: post
 title: "첫 포스팅"
